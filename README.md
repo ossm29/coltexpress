@@ -1,6 +1,5 @@
 # coltexpress
 
-PO & GL : PROJET COLT EXPRESS
 🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂🚂
 
 ![](https://i.imgur.com/v7gkJAk.png)
